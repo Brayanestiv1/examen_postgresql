@@ -1,3 +1,5 @@
+create database tienda_peliculas;
+
 drop Sucursales;
 create table Sucursales (
 	id serial primary key,
